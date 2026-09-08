@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\bin\Debug\net10.0\GustBank.exe
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\bin\Debug\net10.0\GustBank.deps.json
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\bin\Debug\net10.0\GustBank.runtimeconfig.json
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\bin\Debug\net10.0\GustBank.dll
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\bin\Debug\net10.0\GustBank.pdb
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\GustBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\GustBank.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\GustBank.AssemblyInfo.cs
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\GustBank.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\GustBank.sourcelink.json
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\GustBank.dll
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\refint\GustBank.dll
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\GustBank.pdb
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\GustBank.genruntimeconfig.cache
+C:\Users\gusta\source\repos\orbita-workspace\aprendizado-csharp-dotnet\GustBank\obj\Debug\net10.0\ref\GustBank.dll
